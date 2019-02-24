@@ -8,7 +8,7 @@ This app that we have created, combines these two things into one ultimate creat
 
 You can make our favourite comet - Temoc - whoosh at a moment's notice!
 
-Group Members - Arshdeep Singh
-              - Nikhaz Omar
-              - Surya Aggarwal
-              - Wallas Dinklang
+Group Members - Arshdeep Singh (Fr.)
+              - Nikhaz Omar (Fr.)
+              - Surya Aggarwal (Fr.)
+              - Wallas Dinklang (Fr.)
